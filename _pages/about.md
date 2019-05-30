@@ -1,23 +1,22 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Tim-Oliver Buchholz</strong>
+description: PhD Student in the <a href="https://www.mpi-cbg.de/research-groups/current-groups/florian-jug/research-focus/">Jug-Lab</a> at MPI-CBG/CSBD</a> 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Max Planck Institute of Molecular Cell Biology and Genetics</p>
+    <p>Pfotenhauerstr. 108</p>
+    <p>01307 Dresden, Germany</p>
 
-news: true
+news: false
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I grew up in Kreuzlingen (Switzerland) right at the border to Konstanz (Germany), where I studied Computer Science at the University of Konstanz. During this time I learned about the field of biological image analysis and joined the community united in <a href="https://forum.image.sc/">image.sc</a>. With my training in software development I was able to join the open-source developer community of <a href="https://github.com/imagej">ImageJ</a> and contribute to several tools used in bio-image analysis. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In September 2017 I started my PhD at MPI-CBG/CSBD in Dresden in the <a href="https://www.mpi-cbg.de/research-groups/current-groups/florian-jug/research-focus/">Jug-Lab</a>. My research evolves around content-aware image restoration techniques with a focus on image denoising.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
