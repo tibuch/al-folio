@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Publications in reversed chronological order. <br/>* Authors contributed equally.
-years: [2018]
+years: [2019]
 ---
 
 {% for y in page.years %}
