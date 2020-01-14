@@ -40,8 +40,8 @@ orcid_id: 0000-0001-6953-8915 # your ORCID ID
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: Tim-Oliver Buchholz
+blog_description: A short introduction. 
 
 # Pagination
 paginate: 4
